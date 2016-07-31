@@ -1,0 +1,18 @@
+{
+    "author": "Raphael Kohrs",
+    "version": "0.15",
+    "compatible": 1,
+    "url": "",
+    "git": "https:\/\/github.com\/MiniBlister\/DarkBlueSkin.git",
+    "icons": [
+        "Bird",
+        "Flag",
+        "Globe",
+        "Heart",
+        "Kohrs_giesen",
+        "Marker",
+        "Shield",
+        "GarageNew",
+        "Star"
+    ]
+}
