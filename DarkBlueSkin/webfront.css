@@ -1,0 +1,194 @@
+/* Minimale Breite der Buttons. Zentrierte Ausrichtung der Schrift */
+html {
+  background: url("background.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover !important; 
+  min-height:100%;
+}
+body {
+    background: #000000 none repeat scroll 0 0;
+    color: #fff;
+    font-family: arial,sans-serif;
+    font-size: 17px;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    min-height:100%;
+    height: 100%;
+}
+
+.ipsCategory > .container .content .visual > .enum > div, 
+.ipsCategory > .container .content .visual > .selector > div, 
+.ipsCategory > .container .extended > .textBox > div {
+	min-width: 50px;
+	text-align: center; 
+}
+
+.ipsWebFront {
+    background-color: transparent;
+    
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+
+
+.ipsTabPane > .navigation ,
+.ipsContentChanger > .navigation {
+	background-color: #111111;
+	background-color: rgba(255, 255, 255, 0.1);
+}
+
+.ipsCategory > .container .childContainers {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border-color: rgba(255, 255, 255, 0.15);
+    border-style: solid;
+    border-width: 0;
+    margin: 0 10px 10px;
+    position: relative;
+}
+
+.ipsCategory > .container {
+    background: rgba(0, 0, 0, 0.14) none repeat scroll 0 0;
+    border-color: rgba(255, 255, 255, 0.25);
+    border-style: solid;
+    border-width: 0px;
+    margin: 0 0 10px;
+    overflow: hidden;
+    position: relative;
+}
+
+.ipsCategory > .container .childContainers > div {
+    border-color: rgba(255, 255, 255, 0.15);
+    border-style: solid;
+    border-width: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.ipsTabPane > .content {
+    background-image: -moz-linear-gradient(center top , rgba(0, 0, 0, 0.00) 0px, rgba(0, 0, 0, 0.00) 8px, rgba(0, 0, 0, 0) 9px);
+    bottom: 0;
+    left: 0;
+    overflow-y: auto;
+    position: absolute;
+    right: 0;
+    top: 37px;
+}
+.ipsCategory > .container {
+    background: rgba(255, 255, 255, 0.07) none repeat scroll 0 0;
+    border-color: rgba(255, 255, 255, 0.25);
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 0;
+    margin: 0 0 10px;
+    overflow: hidden;
+    position: relative;
+}
+.ipsCategory > .container .content .visual > .selector > div, .ipsCategory > .container .extended > .textBox > div {
+    background-color: rgba(255, 255, 255, 0.1);
+    background-image: -moz-linear-gradient(center top , rgba(0, 0, 0, 0) 0px, rgba(255, 255, 255, 0.1) 28%, rgba(255, 255, 255, 0.1) 100%);
+    border-color: transparent;
+    border-style: solid;
+    border-width: 0;
+    color: rgba(255, 255, 255, 0.5);
+    display: inline-block;
+    line-height: 28px;
+    margin: 2px 0 1px 3px;
+    min-height: 28px;
+    padding: 0 10px;
+    vertical-align: middle;
+}
+.ipsCategory > .container .content .visual > .enum > div {
+    background-color: transparent;
+    background-image: none;
+    border-color: rgba(255, 255, 255, 0.2);
+    border-style: solid;
+    border-radius: 4px;
+    border-width: 2px ;
+    color: rgba(255, 255, 255, 0.7);
+    display: inline-block;
+    line-height: 28px;
+    margin: 2px 0 1px 3px;
+    min-height: 28px;
+    padding: 0 10px;
+    vertical-align: middle;
+}
+.ipsCategory > .container .content .visual > .enum > .selected, .ipsCategory > .container .content .visual > .selector > .selected {
+    background-color: rgba(255, 255, 255, 0.07);
+    
+}
+.ipsCategory > .container .extended > .mailBox, .ipsCategory > .container .extended > .textBox {
+    background: none;
+    border-color: rgba(255, 255, 255, 0.2);
+    border-style: solid;
+    border-width: 2px;
+    overflow: hidden;
+    border-radius: 4px;
+}
+.ipsCategory > .container .extended > .htmlBox {
+    background: none;
+    border: none;
+
+  
+}
+/* Minimale Breite der Buttons. Zentrierte Ausrichtung der Schrift */
+.tab-HMTL-stat {
+
+   border-collapse: collapse;
+}
+
+.tab-HMTL-stat th {
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    padding: 3px 7px 2px 7px;
+   
+}
+
+.tab-HMTL-stat td {
+    border: 1px solid rgba(255, 255, 255, 0.25) ;
+    padding: 3px 7px 2px 7px;
+   
+}
+
+.border-hs {
+   background-color: #444444;
+}
+.border-ws {
+   background-color: #666666;
+}
+
+
+.muell {
+  width:100%;
+
+}
+.muell-box {
+ float: left;
+ position: relative;
+ width: 25%;
+ margin: 0px;
+ padding: 0px;
+}
+.muell-img {
+ clear: both;
+ float: left; 
+  
+}
+
+.muell-11 {
+  position: absolute;
+  top: 3px;
+  left: 30px; 
+  clear: both;
+}
+.muell-11-n {
+  position: absolute;
+  top: 3px;
+  left: 24px; 
+}
