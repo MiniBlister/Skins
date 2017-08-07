@@ -66,6 +66,36 @@ body {
     min-height:100%;
     height: 100%;
 }
+
+.muell {
+  width:100%;
+
+}
+.muell-box {
+ float: left;
+ position: relative;
+ width: 25%;
+ margin: 0px;
+ padding: 0px;
+}
+.muell-img {
+ clear: both;
+ float: left; 
+  
+}
+
+.muell-11 {
+  position: absolute;
+  top: 3px;
+  left: 30px; 
+  clear: both;
+}
+.muell-11-n {
+  position: absolute;
+  top: 3px;
+  left: 24px; 
+}
+
 /* Minimale Breite der Buttons. Zentrierte Ausrichtung der Schrift
 
 .ipsCategory > .container .content .visual > .enum > div, 
@@ -213,32 +243,5 @@ body {
 }
 
 
-.muell {
-  width:100%;
 
-}
-.muell-box {
- float: left;
- position: relative;
- width: 25%;
- margin: 0px;
- padding: 0px;
-}
-.muell-img {
- clear: both;
- float: left; 
-  
-}
-
-.muell-11 {
-  position: absolute;
-  top: 3px;
-  left: 30px; 
-  clear: both;
-}
-.muell-11-n {
-  position: absolute;
-  top: 3px;
-  left: 24px; 
-}
 */
