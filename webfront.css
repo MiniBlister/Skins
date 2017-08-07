@@ -195,6 +195,7 @@ body {
     padding: 0 10px;
     vertical-align: middle;
 }
+/*
 .ipsCategory > .container .content .visual > .enum > div {
     background-color: transparent;
     background-image: none;
@@ -210,6 +211,7 @@ body {
     padding: 0 10px;
     vertical-align: middle;
 }
+*/
 .ipsCategory > .container .content .visual > .enum > .selected, .ipsCategory > .container .content .visual > .selector > .selected {
     background-color: rgba(255, 255, 255, 0.07);
     
