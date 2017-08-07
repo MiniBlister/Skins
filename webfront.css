@@ -84,7 +84,6 @@ body {
     overflow-y: auto;
     position: absolute;
     right: 0;
-    top: 37px;
 }
 .ipsCategory > .container {
     background: rgba(255, 255, 255, 0.07) none repeat scroll 0 0;
