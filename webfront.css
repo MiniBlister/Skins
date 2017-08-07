@@ -38,6 +38,11 @@ body {
     width: 100%;
 }
 
+.ipsCategory>.container .content .visual>.enum, .ipsCategory>.container .content .visual>.selector {
+    height: 36px;
+    overflow: auto;
+}
+
 
 .ipsTabPane > .navigation ,
 .ipsContentChanger > .navigation {
