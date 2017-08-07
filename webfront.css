@@ -96,6 +96,29 @@ body {
   left: 24px; 
 }
 
+.tab-HMTL-stat {
+
+   border-collapse: collapse;
+}
+
+.tab-HMTL-stat th {
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    padding: 3px 7px 2px 7px;
+   
+}
+
+.tab-HMTL-stat td {
+    border: 1px solid rgba(255, 255, 255, 0.25) ;
+    padding: 3px 7px 2px 7px;
+   
+}
+
+.border-hs {
+   background-color: #444444;
+}
+.border-ws {
+   background-color: #666666;
+}
 /* Minimale Breite der Buttons. Zentrierte Ausrichtung der Schrift
 
 .ipsCategory > .container .content .visual > .enum > div, 
@@ -206,29 +229,7 @@ body {
   
 }
 
-.tab-HMTL-stat {
 
-   border-collapse: collapse;
-}
-
-.tab-HMTL-stat th {
-    border: 1px solid rgba(255, 255, 255, 0.25);
-    padding: 3px 7px 2px 7px;
-   
-}
-
-.tab-HMTL-stat td {
-    border: 1px solid rgba(255, 255, 255, 0.25) ;
-    padding: 3px 7px 2px 7px;
-   
-}
-
-.border-hs {
-   background-color: #444444;
-}
-.border-ws {
-   background-color: #666666;
-}
 
 
 
